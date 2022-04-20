@@ -1,4 +1,29 @@
 # pokemon_regions
+An application that displays region information in Pokémon
+
+This app is similar to this [project](https://github.com/krisnadwia/simple-recyclerview-app), but made with Flutter
+
+https://www.dicoding.com/academies/159
+
+Download this app: https://cloud.degoo.com/share/Odp2DlGJ7V5E0Jg8kpMG8w
+
+## Screenshots
+<img src="assets/MainScreen1.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/MainScreen2.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/AppLogo.png"
+width="256">&nbsp;&nbsp;&nbsp;
+
+<img src="assets/DetailScreen1.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/DetailScreen2.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/DetailScreen3.png"
+width="256">&nbsp;&nbsp;&nbsp;
+
+<img src="assets/DetailScreen4.png"
+width="256">&nbsp;&nbsp;&nbsp;
 
 A new Flutter project.
 
