@@ -39,7 +39,7 @@ class DetailMobilePage extends StatelessWidget {
               Stack(
                 children: <Widget>[
                   Hero(
-                    tag: "img",
+                    tag: regions.regionImages,
                     child: Image.asset(regions.regionImages),
                   ),
                   SafeArea(
@@ -353,7 +353,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
                       child: Column(
                         children: <Widget>[
                           Hero(
-                            tag: "img2",
+                            tag: widget.regions.regionImages,
                             child: ClipRRect(
                               child: Image.asset(widget.regions.regionImages),
                               borderRadius: BorderRadius.circular(10),

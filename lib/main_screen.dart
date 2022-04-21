@@ -54,7 +54,7 @@ class RegionsList extends StatelessWidget {
                   Expanded(
                     flex: 1,
                     child: Hero(
-                      tag: "img",
+                      tag: regions.regionImages,
                       child: Image.asset(regions.regionImages),
                     ),
                   ),
@@ -116,7 +116,7 @@ class RegionsGrid extends StatelessWidget {
                   children: <Widget>[
                     Expanded(
                       child: Hero(
-                        tag: "img2",
+                        tag: regions.regionImages,
                         child: Image.asset(
                           regions.regionImages,
                           fit: BoxFit.cover,
