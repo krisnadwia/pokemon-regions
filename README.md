@@ -5,7 +5,7 @@ This app is similar to this [project](https://github.com/krisnadwia/simple-recyc
 
 https://www.dicoding.com/academies/159
 
-Download this app: https://cloud.degoo.com/share/Ff8Ehhc0yC3dnwEpj-ppHw
+Download this app: https://drive.google.com/drive/folders/1OBw51LPDKo55HKMDbNsD-rokHY5J2yfV?usp=share_link
 
 ## Screenshots
 <img src="assets/MainScreen1.png"
